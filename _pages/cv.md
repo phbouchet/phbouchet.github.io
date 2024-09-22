@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * **EPITA**, Diplome d'Ingenieur (5 Year B.S + M.S degree) in Computer Science, (*2023*)
 * **Czech Technical University**, Undergraduate exchange program, (*2020, Cancelled due to COVID*)
 
-Work experience
+Experience
 ======
 * **Lunit**, Research Intern (*08/2024 - Present*)
 * **Siemens Healthineers**, Research Intern (*02/2023 - 02/2024*)
@@ -28,11 +28,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
 
 Teaching
 ======

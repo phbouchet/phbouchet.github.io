@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Philippe Bouchet / AI Researcher"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Philippe Bouchet"
 description              : &description "personal description"
