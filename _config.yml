@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Philippe Bouchet"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Paris, France"
   employer         : "Lunit"
   uri              : # URL

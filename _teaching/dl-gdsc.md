@@ -14,6 +14,3 @@ To facilitate hands-on learning, I created a comprehensive Jupyter notebook that
 
 The workshop material can be found [here](https://github.com/GDSC-EPITA/gdsc-deep_learning_intro-epita/blob/master/GDSC_DL_notebook.ipynb).
 The presentation can be found on [Youtube](https://www.youtube.com/watch?v=eVWS9aBaEi4&t=15s).
-
-You can find the presentation materials at [link to presentation].
-During my time as a student at EPITA, I had the opportunity to join the Google Developer Student Club, as a deep learning lead. As a member of the GDSC, I led an introductory workshop to deep learning. The workshop was there to give people who are interested in deep learning a starting point to provide them with the necessary knowledge to deepen their understanding of the field. To this end, I wrote a [jupyter notebook]() with step-by-step explanations to a basic CNN model for classification. The presentation can be found [here]
