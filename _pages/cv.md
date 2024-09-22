@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Diplome d'Ingenieur (5 Year B.S + M.S degree) in Computer Science, École Pour l'Informatique et les Techniques Avancées (EPITA), 2023
+* Undergraduate exchange program, Czech Technical University, 2020 (Cancelled due to COVID)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lunit, Research Intern 2024 - Present:
+* 
+* Siemens Healthineers, Research Intern 2023 - 2024:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* EPITA Research Laboratory, Graduate Research Assistant 2022:
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Corsair, Software Engineer Intern 2021 - 2022:
   
 Skills
 ======
