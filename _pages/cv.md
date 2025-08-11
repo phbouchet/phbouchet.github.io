@@ -14,7 +14,6 @@ You can find my most up-to-date CV [here](https://drive.google.com/file/d/18KE2W
 Education
 ======
 * **EPITA**, Diplome d'Ingenieur (5 Year B.S + M.S degree) in Computer Science, (*2023*)
-* **Czech Technical University**, Undergraduate exchange program, (*2020, Cancelled due to COVID*)
 
 Experience
 ======
