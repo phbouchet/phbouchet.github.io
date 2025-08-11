@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my most up-to-date CV [here](https://drive.google.com/file/d/18KE2WAIUVOFvbSgQ2OiuHRrwEtWIxxgq/view?usp=sharing)!
+
 Education
 ======
 * **EPITA**, Diplome d'Ingenieur (5 Year B.S + M.S degree) in Computer Science, (*2023*)
