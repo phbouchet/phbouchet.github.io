@@ -16,7 +16,8 @@ Education
 
 Experience
 ======
-* **Lunit**, Research Intern (*08/2024 - Present*)
+* **DentalMonitoring**, Machine Learning Engineer (*07/2025 - Present*)
+* **Lunit**, Research Intern (*08/2024 - 02/2025*)
 * **Siemens Healthineers**, Research Intern (*02/2023 - 02/2024*)
 * **EPITA Research Laboratory**, Graduate Research Assistant (*2022*)
 * **Corsair**, Software Engineer Intern (*09/2021 - 02/2022*)
