@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Philippe Bouchet"
-  pronouns         : "he/him"
-  bio              : ""
+  pronouns         : #"he/him"
+  bio              : "ML Engineer @ DentalMonitoring."
   location         : "Paris, France"
-  employer         : "ML Engineer @ DentalMonitoring"
+  employer         : "DentalMonitoring"
   uri              : # URL
   email            : "philippebouchet13@gmail.com"
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : philippe.bouchet
+  linkedin         : philippe-bouchet
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
