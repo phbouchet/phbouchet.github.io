@@ -17,7 +17,8 @@ Education
 
 Experience
 ======
-* **DentalMonitoring**, Machine Learning Engineer (*07/2025 - Present*)
+* **Ecole Normale Superieure**, Research Engineer (*03/2025 - Present*)
+* **DentalMonitoring**, Machine Learning Engineer (*07/2025 - 01/2026*)
 * **Lunit**, Research Intern (*08/2024 - 02/2025*)
 * **Siemens Healthineers**, Research Intern (*02/2023 - 02/2024*)
 * **EPITA Research Laboratory**, Graduate Research Assistant (*2022*)
